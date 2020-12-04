@@ -1,22 +1,22 @@
 # Group_Project_Seattle_Crime
 An analysis of Seattle Crime by Demographic
 
-#Motivation
+# Motivation
 
 
- #Data Source
+ # Data Source
 
 
- #Processing Steps
+ # Processing Steps
 
 
- #Method of Analysis
+ # Method of Analysis
 
 
- #Visualizations
+ # Visualizations
 
 
- #Conclusion
+ # Conclusion
 
 
- #Additional Analysis
+ # Additional Analysis
